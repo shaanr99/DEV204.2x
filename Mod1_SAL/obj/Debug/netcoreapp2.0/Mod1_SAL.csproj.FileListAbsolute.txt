@@ -1,0 +1,10 @@
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.deps.json
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.runtimeconfig.json
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.runtimeconfig.dev.json
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.dll
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.pdb
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.csproj.CoreCompileInputs.cache
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.AssemblyInfoInputs.cache
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.AssemblyInfo.cs
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.dll
+/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.pdb
