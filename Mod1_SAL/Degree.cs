@@ -7,7 +7,7 @@ namespace Mod1_SAL
     public class Degree
     {
         public string Name { get; set; }
-        public List<Course> Courses;
+        public List<Course> Courses = new List<Course>();
         public static int degreeCount = 0;
 
         public Degree()

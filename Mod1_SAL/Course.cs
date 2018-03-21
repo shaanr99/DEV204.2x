@@ -7,8 +7,8 @@ namespace Mod1_SAL
     public class Course
     {
         public string Name { get; set; }
-        public List<Student> Students;
-        public List<Teacher> Teachers;
+        public List<Student> Students = new List<Student>();
+        public List<Teacher> Teachers = new List<Teacher>();
 
         public static int courseCount = 0;
 

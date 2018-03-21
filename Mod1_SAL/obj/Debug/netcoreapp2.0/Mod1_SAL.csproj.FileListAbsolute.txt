@@ -8,3 +8,13 @@
 /Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.AssemblyInfo.cs
 /Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.dll
 /Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.pdb
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.deps.json
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.runtimeconfig.json
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.runtimeconfig.dev.json
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.dll
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/bin/Debug/netcoreapp2.0/Mod1_SAL.pdb
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.csproj.CoreCompileInputs.cache
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.AssemblyInfoInputs.cache
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.AssemblyInfo.cs
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.dll
+/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/obj/Debug/netcoreapp2.0/Mod1_SAL.pdb

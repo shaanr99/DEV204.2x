@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/shaanr/.nuget/packages/": {},
+    "/Users/sfoltz/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/Mod1_SAL.csproj",
+      "projectUniqueName": "/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/Mod1_SAL.csproj",
       "projectName": "Mod1_SAL",
-      "projectPath": "/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/Mod1_SAL.csproj",
-      "packagesPath": "/Users/shaanr/.nuget/packages/",
-      "outputPath": "/Users/shaanr/Projects/DEV204.2x/DEV204.2x-master/Mod1_SAL/obj",
+      "projectPath": "/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/Mod1_SAL.csproj",
+      "packagesPath": "/Users/sfoltz/.nuget/packages/",
+      "outputPath": "/Users/sfoltz/Documents/GitHub/DEV204.2x/Mod1_SAL/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/shaanr/.config/NuGet/NuGet.Config"
+        "/Users/sfoltz/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

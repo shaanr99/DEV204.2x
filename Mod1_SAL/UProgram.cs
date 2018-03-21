@@ -7,7 +7,7 @@ namespace Mod1_SAL
     public class UProgram
     {
         public string Name { get; set; }
-        public List<Degree> Degrees;
+        public List<Degree> Degrees = new List<Degree>();
         public static int degreeCount = 0;
 
         public UProgram()
