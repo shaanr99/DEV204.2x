@@ -12,7 +12,7 @@ namespace Mod1_Lab3
         public string Color { get; set; }
         public int Year { get; set; }
         public int Mileage { get; set; }
-
+ 
         // Adding a Constructor 
         // This constructor instantiates a Car() object while only having the car's color and year information available
         public Car(string color, int year)

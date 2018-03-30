@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Mod1_SAL/1.0.0": {
+      "MOD1_SAL/1.0.0": {
         "runtime": {
-          "Mod1_SAL.dll": {}
+          "MOD1_SAL.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Mod1_SAL/1.0.0": {
+    "MOD1_SAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
